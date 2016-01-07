@@ -54,7 +54,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Internals
 
 - :new_moon: [CLR via C#](http://amzn.to/1PhSuHf)
-- :new_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
+- :waxing_crescent_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - :full_moon: [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 
 ## Development Philosophy
@@ -69,7 +69,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Algorithms
 
-- :full_moon: [Code Complete <sub>A Practical Handbook of Software Construction</sub>](http://amzn.to/1PhS8R3)
+- :first_quarter_moon: [Code Complete <sub>A Practical Handbook of Software Construction</sub>](http://amzn.to/1PhS8R3)
 - :full_moon: [Hacker's Delight](http://amzn.to/1S6WsIQ)
 - :full_moon: [Head First Design Patterns](http://amzn.to/1S6XaGb)
 - :star2: [Programming Pearls](http://amzn.to/1SD1fRH)
