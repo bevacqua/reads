@@ -127,7 +127,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Rapid Development <sub>Taming Wild Software Schedules</sub>](http://amzn.to/1SD1rAv)
 - :star2: [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
 
-## Personalities
+## Personalities/Life Stories
 
 - :new_moon: [A Brief History of Time](http://amzn.to/1PMITec)
 - :new_moon: [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
