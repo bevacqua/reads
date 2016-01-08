@@ -2,6 +2,7 @@
 
 > Books other people suggested I should read.
 
-## Example Subject Matter
+## Web Design
 
-- [JavaScript Application Design <sub>A Build First Approach</sub>](http://amzn.to/1ZQJMqM)
+- [Real-Life Responsive Web Design](https://goo.gl/PgmUud)
+- [Just Enough Research](http://bit.ly/1TdKsnZ)
