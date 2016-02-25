@@ -17,7 +17,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Designing for Performance <sub>Weighing Aesthetics and Speed</sub>](http://amzn.to/1SCZ0hj)
 - :new_moon: [Even Faster Web Sites <sub>Performance Best Practices for Web Developers</sub>](http://amzn.to/1SCYY9b)
 - :star2: [High Performance Browser Networking <sub>What every web developer should know about networking and web performance</sub>](http://amzn.to/1S6Vo7O)
-- :new_moon: [High Performance JavaScript <sub>(Build Faster Web Application Interfaces)</sub>](http://amzn.to/1PMIWXs)
+- :new_moon: [High Performance JavaScript <sub>Build Faster Web Application Interfaces</sub>](http://amzn.to/1PMIWXs)
 - :new_moon: [High Performance Web Sites <sub>Essential Knowledge for Front-End Engineers</sub>](http://amzn.to/1PMIVCQ)
 
 ## User Experience/Interaction Design/Usability
@@ -137,7 +137,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
 - :full_moon: [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
 - :new_moon: [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
-- :star2: [Surely You're Joking, Mr. Feynman! <sub>(Adventures of a Curious Character)</sub>](http://amzn.to/1S6XwfU)
+- :star2: [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - :new_moon: [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
 - :new_moon: [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - :new_moon: [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
