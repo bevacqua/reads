@@ -22,7 +22,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## User Experience/Interaction Design/Usability
 
-- :full_moon: [About Face 3 <sub>The Essentials of Interaction Design</sub>](http://amzn.to/1SD0KXQ)
+- :star2: [About Face <sub>The Essentials of Interaction Design _(3rd edition)_</sub>](http://amzn.to/1SD0KXQ)
 - :full_moon: [Defensive Design for the Web <sub>How to improve error messages, help, forms, and other crisis points</sub>](http://amzn.to/1S6XMeX)
 - :star2: [Don't Make Me Think <sub>A Common Sense Approach to Web Usability</sub>](http://amzn.to/1SD00SB)
 - :full_moon_with_face: [Lean UX <sub>Applying Lean Principles to Improve User Experience</sub>](http://amzn.to/1S6V4WA)
