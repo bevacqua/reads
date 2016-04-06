@@ -108,7 +108,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Way of Life
 
-- :new_moon: [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
+- :first_quarter_moon: [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - :new_moon: [Tao Te Ching](http://amzn.to/1PMIXKV)
 - :full_moon: [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
