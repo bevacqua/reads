@@ -37,7 +37,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Art/Design
 
 - :new_moon: [How Buildings Learn <sub>What Happens After They're Built</sub>](http://amzn.to/1SCYQX0)
-- :new_moon: [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
+- :star2: [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
 - :new_moon: [What Are You Looking At? <sub>The Surprising, Shocking, and Sometimes Strange Story of 150 Years of Modern Art</sub>](http://amzn.to/1SCYY90)
 
 ## Languages
@@ -108,7 +108,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Way of Life
 
-- :first_quarter_moon: [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
+- :full_moon: [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - :new_moon: [Tao Te Ching](http://amzn.to/1PMIXKV)
 - :full_moon: [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
