@@ -90,7 +90,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Marketing/Sales/Negotiation
 
-- :new_moon: [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
+- :full_moon: [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
 - :new_moon: [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - :full_moon: [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
