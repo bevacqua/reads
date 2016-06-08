@@ -130,7 +130,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Personalities/Life Stories
 
 - :new_moon: [A Brief History of Time](http://amzn.to/1PMITec)
-- :moon: [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
+- :star2: [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
 - :new_moon: [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
 - :full_moon: [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
 - :new_moon: [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
