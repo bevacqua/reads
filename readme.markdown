@@ -104,7 +104,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :new_moon: [Nicely Said <sub>Writing for the Web with Style and Purpose</sub>](http://amzn.to/1PMIWXE)
 - :new_moon: [On Writing Well <sub>The Classic Guide to Writing Nonfiction</sub>](http://amzn.to/1PMIWqx)
-- :new_moon: [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
+- :waxing_crescent_moon: [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
 
 ## Way of Life
 
