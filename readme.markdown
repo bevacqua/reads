@@ -78,10 +78,11 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :star2: [Programming Collective Intelligence <sub>Building Smart Web 2.0 Applications</sub>](http://amzn.to/1S6WH6L)
 
-## Databases
+## Databases/Search
 
 - :full_moon: [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
 - :full_moon: [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
+- :new_moon: [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
 
 ## Product Design
 
@@ -94,6 +95,10 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - :full_moon: [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
+## Economy
+
+- :new_moon: [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
+
 ## On Thinking
 
 - :new_moon: [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
@@ -104,7 +109,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :new_moon: [Nicely Said <sub>Writing for the Web with Style and Purpose</sub>](http://amzn.to/1PMIWXE)
 - :new_moon: [On Writing Well <sub>The Classic Guide to Writing Nonfiction</sub>](http://amzn.to/1PMIWqx)
-- :waxing_crescent_moon: [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
+- :star2: [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
 
 ## Way of Life
 
@@ -114,10 +119,12 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Startups/Businesses
 
+- :new_moon: [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
 - :full_moon: [Rework](http://amzn.to/1SD1coP)
 - :new_moon: [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
-- :new_moon: [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
+- :waxing_crescent_moon: [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
 - :star2: [The Lean Startup <sub>How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</sub>](http://amzn.to/1SD0Qi5)
+- :full_moon: [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
 - :full_moon: [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
 - :star2: [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
 
