@@ -8,7 +8,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 - :new_moon: Haven't read yet
 - :waxing_crescent_moon: :first_quarter_moon: :moon: Reading progress
-- :full_moon: Finished reading
+- :full_moon: Finished reading, liked it
 - :full_moon_with_face: **Wouldn't recommend**
 - :star2: **Loved it**
 
