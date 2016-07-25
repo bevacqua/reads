@@ -2,7 +2,7 @@
 
 > :books: A list of physical books I own. Includes ratings!
 
-If you have book recommendations for me, please [create a Pull Request](https://github.com/bevacqua/reads/compare) adding a link at the end of [`inbox.markdown`](https://github.com/bevacqua/blob/master/inbox.markdown).
+If you have book recommendations for me, please [create a Pull Request](https://github.com/bevacqua/reads/compare) adding a link at the end of [`inbox.markdown`](https://github.com/bevacqua/reads/blob/master/inbox.markdown).
 
 ## Ratings
 
