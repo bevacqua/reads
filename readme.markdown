@@ -86,7 +86,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Product Design
 
-- :new_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
+- :first_quarter_moon: [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - :star2: [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
 
 ## Marketing/Sales/Negotiation
@@ -122,7 +122,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
 - :full_moon: [Rework](http://amzn.to/1SD1coP)
 - :new_moon: [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
-- :waxing_crescent_moon: [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
+- :star2: [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
 - :star2: [The Lean Startup <sub>How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</sub>](http://amzn.to/1SD0Qi5)
 - :full_moon: [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
 - :full_moon: [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
