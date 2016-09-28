@@ -7,7 +7,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Ratings
 
 - 🌑 Haven't read yet
-- 🌒 🌓 🌔 Reading progress
+- 🌘 🌗 🌖 Reading progress
 - 🌕 Finished reading, liked it
 - 🌝 **Wouldn't recommend**
 - 🌟 **Loved it**
@@ -54,7 +54,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Internals
 
 - 🌑 [CLR via C#](http://amzn.to/1PhSuHf)
-- 🌒 [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
+- 🌘 [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - 🌕 [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 
 ## Development Philosophy
@@ -69,7 +69,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Algorithms
 
-- 🌓 [Code Complete <sub>A Practical Handbook of Software Construction</sub>](http://amzn.to/1PhS8R3)
+- 🌗 [Code Complete <sub>A Practical Handbook of Software Construction</sub>](http://amzn.to/1PhS8R3)
 - 🌕 [Hacker's Delight](http://amzn.to/1S6WsIQ)
 - 🌕 [Head First Design Patterns](http://amzn.to/1S6XaGb)
 - 🌟 [Programming Pearls](http://amzn.to/1SD1fRH)
@@ -86,7 +86,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Product Design
 
-- 🌓 [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
+- 🌗 [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - 🌟 [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
 
 ## Marketing/Sales/Negotiation
