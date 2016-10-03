@@ -32,7 +32,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Web Design
 
 - 🌑 [Adaptive Web Design <sub>Crafting Rich Experiences with Progressive Enhancement</sub>](http://amzn.to/1SCYY97)
-- 🌑 [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
+- 🌘 [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
 
 ## Art/Design
 
@@ -86,7 +86,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Product Design
 
-- 🌗 [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
+- 🌕 [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - 🌟 [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
 
 ## Marketing/Sales/Negotiation
