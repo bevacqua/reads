@@ -32,7 +32,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## Web Design
 
 - 🌑 [Adaptive Web Design <sub>Crafting Rich Experiences with Progressive Enhancement</sub>](http://amzn.to/1SCYY97)
-- 🌘 [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
+- 🌕 [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
 
 ## Art/Design
 
