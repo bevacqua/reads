@@ -84,7 +84,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌕 [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
 - 🌕 [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
-- 🌘 [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
+- 🌖 [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
 
 ## Product Design
 
