@@ -4,7 +4,7 @@
 
 If you have book recommendations for me, please [create a Pull Request](https://github.com/bevacqua/reads/compare) adding a link at the end of [`inbox.markdown`](https://github.com/bevacqua/reads/blob/master/inbox.markdown).
 
-Books I would like to read but I haven't purchased yet can be found on my [Amazon wishlist](http://amzn.to/2k0GORJ)
+Books I would like to read but I haven't purchased yet can be found on my [Amazon wishlist](http://amzn.to/2k0GORJ).
 
 ## Ratings
 
