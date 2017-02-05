@@ -84,7 +84,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌕 [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
 - 🌕 [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
-- 🌖 [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
+- 🌟 [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
 
 ## Product Design
 
@@ -116,7 +116,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Way of Life
 
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
-- 🌑 [Tao Te Ching](http://amzn.to/1PMIXKV)
+- 🌕 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
 ## Startups/Businesses
