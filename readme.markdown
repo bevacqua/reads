@@ -38,7 +38,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Art/Design
 
-- 🌑 [How Buildings Learn <sub>What Happens After They're Built</sub>](http://amzn.to/1SCYQX0)
+- 🌕 [How Buildings Learn <sub>What Happens After They're Built</sub>](http://amzn.to/1SCYQX0)
 - 🌟 [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
 - 🌑 [What Are You Looking At? <sub>The Surprising, Shocking, and Sometimes Strange Story of 150 Years of Modern Art</sub>](http://amzn.to/1SCYY90)
 
