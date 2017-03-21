@@ -94,7 +94,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Marketing/Sales/Negotiation
 
 - 🌕 [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
-- 🌗 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
+- 🌟 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - 🌕 [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
 ## Economy
