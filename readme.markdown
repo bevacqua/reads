@@ -140,7 +140,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌟 [A Brief History of Time](http://amzn.to/1PMITec)
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
-- 🌘 [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
+- 🌕 [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
 - 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
 - 🌑 [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
 - 🌑 [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
