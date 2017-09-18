@@ -104,7 +104,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## On Thinking
 
 - 🌑 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
-- 🌑 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
+- 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - 🌟 [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
 
 ## On Writing
@@ -121,7 +121,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Startups/Businesses
 
-- 🌑 [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
+- 🌟 [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
 - 🌕 [Rework](http://amzn.to/1SD1coP)
 - 🌑 [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
 - 🌟 [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
