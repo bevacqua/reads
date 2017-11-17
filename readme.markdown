@@ -53,7 +53,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
 - 🌑 [The Art of UNIX Programming](http://amzn.to/1PMISXS)
 
-## Internals
+## Compilers
 
 - 🌑 [CLR via C#](http://amzn.to/1PhSuHf)
 - 🌘 [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
@@ -123,7 +123,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌟 [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
 - 🌕 [Rework](http://amzn.to/1SD1coP)
-- 🌑 [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
+- 🌕 [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
 - 🌟 [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
 - 🌟 [The Lean Startup <sub>How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</sub>](http://amzn.to/1SD0Qi5)
 - 🌕 [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
@@ -135,6 +135,10 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Peopleware <sub>Productive Projects and Teams</sub>](http://amzn.to/1SD1j3S)
 - 🌑 [Rapid Development <sub>Taming Wild Software Schedules</sub>](http://amzn.to/1SD1rAv)
 - 🌟 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
+
+## Management
+
+- 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 
 ## Personalities/Life Stories
 
@@ -148,7 +152,6 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
-- 🌑 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌑 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
 
 ## Comics/Casual Reads
