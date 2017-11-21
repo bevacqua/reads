@@ -9,10 +9,10 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Ratings
 
 - 🌑 Haven't read yet <sub>(29/84)</sub>
-- 🌘 🌗 🌖 Reading progress <sub>(4/84)</sub>
+- 🌘 🌗 🌖 Reading progress <sub>(3/84)</sub>
 - 🌕 Finished reading, liked it <sub>(27/84)</sub>
 - 🌝 **Wouldn't recommend** <sub>(2/84)</sub>
-- 🌟 **Loved it** <sub>(22/84)</sub>
+- 🌟 **Loved it** <sub>(23/84)</sub>
 
 ## Web Performance
 
@@ -138,7 +138,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Management
 
-- 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
+- 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 
 ## Personalities/Life Stories
 
