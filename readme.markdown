@@ -97,9 +97,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - 🌕 [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
-## Economy
+## Economics
 
-- 🌑 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
+- 🌘 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
 
 ## On Thinking
 
