@@ -99,11 +99,11 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Economics
 
-- 🌘 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
+- 🌗 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
 
 ## On Thinking
 
-- 🌑 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
+- 🌗 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - 🌟 [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
 
@@ -146,13 +146,13 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
 - 🌕 [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
 - 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
-- 🌑 [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
-- 🌑 [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
+- 🌕 [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
+- 🌟 [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
 - 🌕 [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
 - 🌑 [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
-- 🌑 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
+- 🌗 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
 
 ## Comics/Casual Reads
 
