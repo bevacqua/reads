@@ -100,6 +100,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Economics
 
 - 🌗 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
+- 🌑 [Capitalism, Alone: The Future of the System That Rules the World](https://amzn.to/3fHRGl2)
+- 🌑 [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://amzn.to/3fSyeCg)
+- 🌑 [The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom](https://amzn.to/3oblTvX)
 
 ## On Thinking
 
@@ -119,7 +122,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
-## Startups/Businesses
+## Businesses / Decisionmaking
 
 - 🌟 [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
 - 🌕 [Rework](http://amzn.to/1SD1coP)
@@ -129,6 +132,12 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
 - 🌕 [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
 - 🌟 [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
+- 🌑 [Positioning: The Battle for Your Mind](https://amzn.to/39jmibo)
+- 🌑 [Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://amzn.to/3fMApXU)
+- 🌑 [The Undoing Project: A Friendship That Changed Our Minds](https://amzn.to/3qbGj9G)
+- 🌑 [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://amzn.to/3mjtgkb)
+- 🌑 [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://amzn.to/3o63GQ6)
+- 🌑 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
 
 ## Teamwork
 
@@ -136,13 +145,37 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Rapid Development <sub>Taming Wild Software Schedules</sub>](http://amzn.to/1SD1rAv)
 - 🌟 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
 
-## Management
+## Leadership / Management
 
 - 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
+- 🌑 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://amzn.to/39oXrTC)
+- 🌑 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://amzn.to/2Vf93Ak)
+- 🌑 [The Five Dysfunctions of a Team: A Leadership Fable](https://amzn.to/37jNF2b)
+- 🌑 [High Output Management](https://amzn.to/3mjrbVB)
+- 🌑 [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://amzn.to/3mvu31P)
+- 🌑 [The Making of a Manager: What to Do When Everyone Looks to You](https://amzn.to/36fcBbW)
+- 🌑 [The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company](https://amzn.to/2J8giHT)
+- 🌑 [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone](https://amzn.to/3fP3hyD)
 
-## Personalities/Life Stories
+## Sciences
 
 - 🌟 [A Brief History of Time](http://amzn.to/1PMITec)
+- 🌑 [On the Origin of Species](https://amzn.to/37gCoQf)
+- 🌑 [The Selfish Gene](https://amzn.to/3lidNzN)
+- 🌑 [Sapiens: A Brief History of Humankind](https://amzn.to/37eIP6s)
+- 🌑 [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://amzn.to/2Vdhg7X)
+- 🌑 [Lifespan: The Revolutionary Science of Why We Age – and Why We Don’t Have To](https://amzn.to/3q9u0KZ)
+- 🌑 [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures](https://amzn.to/33mPM47)
+
+## Education and culture
+
+- 🌑 [How Children Fail](https://amzn.to/2Ji2RoH)
+- 🌑 [Prepared: What Kids Need for a Fulfilled Life](https://amzn.to/2Vab9Bv)
+- 🌑 [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://amzn.to/3q7BcHD)
+- 🌑 [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://amzn.to/2KQhH6j)
+
+## Personalities / Inspiration
+
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
 - 🌕 [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
 - 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
@@ -153,6 +186,8 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
 - 🌗 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
+- 🌑 [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://amzn.to/3mjGCgi)
+- 🌑 [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://amzn.to/3liX5Af)
 
 ## Comics/Casual Reads
 
@@ -163,3 +198,4 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌑 [A Confederacy of Dunces](http://amzn.to/1SCZ0xz)
 - 🌑 [Animal Farm and 1984](http://amzn.to/1SCYYpr)
+- 🌑 [Hitchhiker's Guide to the Galaxy](https://amzn.to/3fN2iiI)
