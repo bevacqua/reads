@@ -97,8 +97,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - 🌕 [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
 
-## Economics
+## Economics / Behavioralism / Capitalism
 
+- 🌟 [A Random Walk Down Wall Street <sub>The Time-Tested Strategy for Successful Investing</sub>](https://amzn.to/2Vg33Hk)
 - 🌗 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
 - 🌑 [Capitalism, Alone <sub>The Future of the System That Rules the World</sub>](https://amzn.to/3fHRGl2)
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
