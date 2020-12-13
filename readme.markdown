@@ -122,7 +122,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - 🌕 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
-- 🌑 [The Art of Doing Science and Engineering: Learning to Learn](https://amzn.to/3nhKLBR)
+- 🌑 [The Art of Doing Science and Engineering <sub>Learning to Learn</sub>](https://amzn.to/3nhKLBR)
 
 ## Businesses / Decisionmaking
 
