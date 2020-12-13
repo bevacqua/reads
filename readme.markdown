@@ -122,6 +122,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - 🌕 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
+- 🌑 [The Art of Doing Science and Engineering: Learning to Learn](https://amzn.to/3nhKLBR)
 
 ## Businesses / Decisionmaking
 
@@ -157,6 +158,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [The Making of a Manager <sub>What to Do When Everyone Looks to You</sub>](https://amzn.to/36fcBbW)
 - 🌑 [The Ride of a Lifetime <sub>Lessons Learned from 15 Years as CEO of the Walt Disney Company</sub>](https://amzn.to/2J8giHT)
 - 🌑 [Hit Refresh <sub>The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</sub>](https://amzn.to/3fP3hyD)
+- 🌑 [Reboot <sub>Leadership and the Art of Growing Up</sub>](https://amzn.to/2Wbdmgq)
 
 ## Sciences
 
@@ -186,7 +188,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
-- 🌗 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
+- 🌕 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
 - 🌑 [Dealers of Lightning <sub>Xerox PARC and the Dawn of the Computer Age</sub>](https://amzn.to/3mjGCgi)
 - 🌑 [The Dream Machine <sub>J.C.R. Licklider and the Revolution That Made Computing Personal</sub>](https://amzn.to/3liX5Af)
 
