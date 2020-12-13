@@ -22,7 +22,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [High Performance JavaScript <sub>Build Faster Web Application Interfaces</sub>](http://amzn.to/1PMIWXs)
 - 🌑 [High Performance Web Sites <sub>Essential Knowledge for Front-End Engineers</sub>](http://amzn.to/1PMIVCQ)
 
-## User Experience/Interaction Design/Usability
+## User Experience / Interaction Design / Usability
 
 - 🌟 [About Face <sub>The Essentials of Interaction Design _(3rd edition)_</sub>](http://amzn.to/1SD0KXQ)
 - 🌕 [Defensive Design for the Web <sub>How to improve error messages, help, forms, and other crisis points</sub>](http://amzn.to/1S6XMeX)
@@ -80,7 +80,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌟 [Programming Collective Intelligence <sub>Building Smart Web 2.0 Applications</sub>](http://amzn.to/1S6WH6L)
 
-## Databases/Search
+## Databases / Search
 
 - 🌟 [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
 - 🌕 [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
@@ -192,13 +192,13 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Dealers of Lightning <sub>Xerox PARC and the Dawn of the Computer Age</sub>](https://amzn.to/3mjGCgi)
 - 🌑 [The Dream Machine <sub>J.C.R. Licklider and the Revolution That Made Computing Personal</sub>](https://amzn.to/3liX5Af)
 
-## Comics/Casual Reads
-
-- 🌕 [xkcd: volume 0](http://amzn.to/1SD1PyG)
-- 🌑 [Thing Explainer <sub>Complicated Stuff in Simple Words</sub>](http://amzn.to/1PMIWqm)
-
 ## Novels
 
 - 🌑 [A Confederacy of Dunces](http://amzn.to/1SCZ0xz)
 - 🌑 [Animal Farm and 1984](http://amzn.to/1SCYYpr)
 - 🌑 [Hitchhiker's Guide to the Galaxy](https://amzn.to/3fN2iiI)
+
+## Comics / Casual Reads
+
+- 🌕 [xkcd: volume 0](http://amzn.to/1SD1PyG)
+- 🌑 [Thing Explainer <sub>Complicated Stuff in Simple Words</sub>](http://amzn.to/1PMIWqm)
