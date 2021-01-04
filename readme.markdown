@@ -107,7 +107,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## On Thinking
 
-- 🌗 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
+- 🌟 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - 🌟 [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
 
