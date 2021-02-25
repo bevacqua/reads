@@ -153,7 +153,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌕 [On Managing People](https://www.amazon.com/dp/1422158012/ref=cm_sw_r_cp_apa_fabc_u6KbGbBYT7VZG)
 - 🌕 [Turn the Ship Around! <sub>A True Story of Turning Followers into Leaders</sub>](https://amzn.to/39oXrTC)
-- 🌑 [Trillion Dollar Coach <sub>The Leadership Playbook of Silicon Valley's Bill Campbell</sub>](https://amzn.to/2Vf93Ak)
+- 🌕 [Trillion Dollar Coach <sub>The Leadership Playbook of Silicon Valley's Bill Campbell</sub>](https://amzn.to/2Vf93Ak)
 - 🌟 [High Output Management](https://amzn.to/3mjrbVB)
 - 🌟 [The Manager's Path <sub>A Guide for Tech Leaders Navigating Growth and Change</sub>](https://amzn.to/3mvu31P)
 - 🌑 [The Making of a Manager <sub>What to Do When Everyone Looks to You</sub>](https://amzn.to/36fcBbW)
