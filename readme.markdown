@@ -139,7 +139,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/3qbGj9G)
 - 🌑 [The Hard Thing About Hard Things <sub>Building a Business When There Are No Easy Answers</sub>](https://amzn.to/3mjtgkb)
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
-- 🌑 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
+- 🌟 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
 
 ## Teamwork
 
