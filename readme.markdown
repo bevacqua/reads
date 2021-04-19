@@ -30,6 +30,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌝 [Lean UX <sub>Applying Lean Principles to Improve User Experience</sub>](http://amzn.to/1S6V4WA)
 - 🌟 [The Design of Everyday Things](http://amzn.to/1SD0MyZ)
 - 🌟 [The Inmates Are Running the Asylum <sub>Why High Tech Products Drive Us Crazy and How to Restore the Sanity</sub>](http://amzn.to/1S6X80P)
+- 🌑 [The Visual Display of Quantitative Information](https://amzn.to/3arEcbw)
 
 ## Web Design
 
@@ -91,11 +92,12 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Hooked <sub>How to Build Habit-Forming Products</sub>](http://amzn.to/1SCZ0h2)
 - 🌟 [Inspired <sub>How To Create Products Customers Love</sub>](http://amzn.to/1SD1EDE)
 
-## Marketing/Sales/Negotiation
+## Marketing / Sales / Negotiation
 
 - 🌕 [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
 - 🌟 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - 🌕 [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
+- 🌗 [Positioning <sub>The Battle for Your Mind</sub>](https://amzn.to/39jmibo)
 
 ## Economics / Behavioralism / Capitalism
 
@@ -104,6 +106,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Capitalism, Alone <sub>The Future of the System That Rules the World</sub>](https://amzn.to/3fHRGl2)
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 - 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
+- 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
 
 ## On Thinking
 
@@ -134,12 +137,12 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
 - 🌕 [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
 - 🌟 [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
-- 🌑 [Positioning <sub>The Battle for Your Mind</sub>](https://amzn.to/39jmibo)
 - 🌑 [Blue Ocean Strategy <sub>How to Create Uncontested Market Space and Make the Competition Irrelevant</sub>](https://amzn.to/3fMApXU)
 - 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/3qbGj9G)
 - 🌑 [The Hard Thing About Hard Things <sub>Building a Business When There Are No Easy Answers</sub>](https://amzn.to/3mjtgkb)
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
 - 🌟 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
+- 🌑 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
 
 ## Teamwork
 
@@ -170,6 +173,15 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Why We Sleep <sub>Unlocking the Power of Sleep and Dreams</sub>](https://amzn.to/2Vdhg7X)
 - 🌑 [Lifespan <sub>The Revolutionary Science of Why We Age – and Why We Don’t Have To</sub>](https://amzn.to/3q9u0KZ)
 - 🌑 [Entangled Life <sub>How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures</sub>](https://amzn.to/33mPM47)
+- 🌑 [Life's Edge <sub>The Search for What It Means to Be Alive</sub>](https://amzn.to/3xhG4xF)
+- 🌑 [Reality Is Not What It Seems <sub>The Journey to Quantum Gravity</sub>](https://amzn.to/3n2nCEb)
+- 🌑 [An Enquiry Concerning Human Understanding <sub>_and_ Hume's Abstract of A Treatise of Human Nature _and_ A Letter from a Gentleman to His Friend in Edinburgh</sub>](https://amzn.to/3dvk2PS)
+
+## Politics / History
+
+- 🌑 [The Powerful and the Damned <subPrivate Diaries in Turbulent Times</sub>](https://amzn.to/3tKVUhK)
+- 🌑 [The Dictator's Handbook <sub>Why Bad Behavior Is Almost Always Good Politics</sub>](https://amzn.to/3xayd4Q)
+- 🌑 [SPQR <sub>A History of Ancient Rome</sub>](https://amzn.to/3tzHtNJ)
 
 ## Education and culture
 
