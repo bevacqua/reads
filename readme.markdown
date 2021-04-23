@@ -97,9 +97,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](http://amzn.to/1SCZnIs)
 - 🌟 [How to Win Friends & Influence People](http://amzn.to/1SCZ0h6)
 - 🌕 [The Win Without Pitching Manifesto](http://amzn.to/1SD0k3G)
-- 🌗 [Positioning <sub>The Battle for Your Mind</sub>](https://amzn.to/39jmibo)
+- 🌕 [Positioning <sub>The Battle for Your Mind</sub>](https://amzn.to/39jmibo)
 
-## Economics / Behavioralism / Capitalism
+## Economics / Behavioralism / Capitalism / Money
 
 - 🌟 [A Random Walk Down Wall Street <sub>The Time-Tested Strategy for Successful Investing</sub>](https://amzn.to/2Vg33Hk)
 - 🌗 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
@@ -107,6 +107,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 - 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
+- 🌑 [Payments Systems in the U.S. <sub>A Guide for the Payments Professional</sub>](https://amzn.to/3xnZ3Xo)
 
 ## On Thinking
 
