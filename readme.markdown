@@ -51,7 +51,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [JavaScript: The Good Parts](http://amzn.to/1SD1gVz)
 - 🌑 [Learn You a Haskell for Great Good! <sub>A Beginner's Guide</sub>](http://amzn.to/1SD1koq)
 - 🌑 [Learning Python](http://amzn.to/1S6XiFt)
-- 🌑 [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
+- 🌕 [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
 - 🌑 [The Art of UNIX Programming](http://amzn.to/1PMISXS)
 
 ## Compilers
