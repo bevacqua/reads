@@ -150,7 +150,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Peopleware <sub>Productive Projects and Teams</sub>](http://amzn.to/1SD1j3S)
 - 🌑 [Rapid Development <sub>Taming Wild Software Schedules</sub>](http://amzn.to/1SD1rAv)
 - 🌟 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
-- 🌑 [The Five Dysfunctions of a Team <sub>A Leadership Fable</sub>](https://amzn.to/37jNF2b)
+- 🌟 [The Five Dysfunctions of a Team <sub>A Leadership Fable</sub>](https://amzn.to/37jNF2b)
 
 ## Leadership / Management
 
