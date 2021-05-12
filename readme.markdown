@@ -140,7 +140,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
 - 🌑 [Blue Ocean Strategy <sub>How to Create Uncontested Market Space and Make the Competition Irrelevant</sub>](https://amzn.to/3fMApXU)
 - 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/3qbGj9G)
-- 🌑 [The Hard Thing About Hard Things <sub>Building a Business When There Are No Easy Answers</sub>](https://amzn.to/3mjtgkb)
+- 🌟 [The Hard Thing About Hard Things <sub>Building a Business When There Are No Easy Answers</sub>](https://amzn.to/3mjtgkb)
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
 - 🌟 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
 - 🌑 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
