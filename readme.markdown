@@ -107,7 +107,16 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 - 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
-- 🌑 [Payments Systems in the U.S. <sub>A Guide for the Payments Professional</sub>](https://amzn.to/3xnZ3Xo)
+
+## Payments / Crypto / DeFi
+
+- 🌘 [Payments Systems in the U.S. <sub>A Guide for the Payments Professional</sub>](https://amzn.to/3xnZ3Xo)
+- 🌑 [Electronic Value Exchange <sub>Origins of the VISA Electronic Payment System</sub>](https://amzn.to/3w5S8R8)
+- 🌑 [The Anatomy of the Swipe <sub>Making Money Move</sub>](https://amzn.to/3w9t7nR)
+- 🌑 [Bank 4.0 <sub>Banking Everywhere, Never at a Bank</sub>](https://amzn.to/3uTxsf2)
+- 🌑 [The Internet of Money Vol I <sub>A collection of talks by Andreas M. Antonopoulos</sub>](https://amzn.to/3uJhzYi)
+- 🌑 [The Internet of Money Vol II <sub>A collection of talks by Andreas M. Antonopoulos</sub>](https://amzn.to/3bsFkw5)
+- 🌑 [The Internet of Money Vol III <sub>A collection of talks by Andreas M. Antonopoulos</sub>](https://amzn.to/3bu39nc)
 
 ## On Thinking
 
@@ -144,6 +153,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
 - 🌟 [Only the Paranoid Survive](https://amzn.to/33pV2nM)
 - 🌑 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
+- 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
 
 ## Teamwork
 
@@ -164,6 +174,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [The Ride of a Lifetime <sub>Lessons Learned from 15 Years as CEO of the Walt Disney Company</sub>](https://amzn.to/2J8giHT)
 - 🌑 [Hit Refresh <sub>The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</sub>](https://amzn.to/3fP3hyD)
 - 🌑 [Reboot <sub>Leadership and the Art of Growing Up</sub>](https://amzn.to/2Wbdmgq)
+- 🌑 [The Effective Executive <sub>The Definitive Guide to Getting the Right Things Done</sub>](https://amzn.to/3ohyxdN)
 
 ## Sciences
 
