@@ -35,6 +35,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/3qbGj9G)
 - 🌑 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
 - 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
+- 🌑 [The Everything Store <sub>Jeff Bezos and the Age of Amazon</sub>](https://amzn.to/3tVxwJy)
+- 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
+- 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 
 ## Leadership / Management
 
