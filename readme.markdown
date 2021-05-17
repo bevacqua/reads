@@ -75,6 +75,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 - 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
+- 🌑 [The Upside of Stress <sub>Why Stress Is Good for You, and How to Get Good at It</sub>](https://amzn.to/3eRcdos)
 
 ## Payments / Crypto / DeFi
 
@@ -184,6 +185,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](https://amzn.to/1SCZHad)
 - 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](https://amzn.to/1SCZ00J)
 - 🌑 [The Art of Doing Science and Engineering <sub>Learning to Learn</sub>](https://amzn.to/3nhKLBR)
+- 🌑 [Man's Search for Meaning](https://amzn.to/3hBnYkz)
 
 ## On Writing
 
@@ -191,7 +193,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Nicely Said <sub>Writing for the Web with Style and Purpose</sub>](https://amzn.to/1PMIWXE)
 - 🌑 [On Writing Well <sub>The Classic Guide to Writing Nonfiction</sub>](https://amzn.to/1PMIWqx)
 
-## Inspiration / Personalities
+## Personalities / Inspiration
 
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](https://amzn.to/1S6XwfU)
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](https://amzn.to/1SCZIv0)
@@ -205,6 +207,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](https://amzn.to/1SCYY93)
 - 🌑 [Dealers of Lightning <sub>Xerox PARC and the Dawn of the Computer Age</sub>](https://amzn.to/3mjGCgi)
 - 🌑 [The Dream Machine <sub>J.C.R. Licklider and the Revolution That Made Computing Personal</sub>](https://amzn.to/3liX5Af)
+- 🌑 [Chaos Monkeys <sub>Obscene Fortune and Random Failure in Silicon Valley</sub>](https://amzn.to/2T0hbH7)
 
 ## Sciences
 
