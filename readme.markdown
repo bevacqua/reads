@@ -37,6 +37,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
 - 🌑 [The Everything Store <sub>Jeff Bezos and the Age of Amazon</sub>](https://amzn.to/3tVxwJy)
 - 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
+- 🌑 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 
 ## Leadership / Management
