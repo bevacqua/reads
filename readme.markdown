@@ -71,15 +71,14 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 # Capital
 
-## Economics / Behavioralism / Capitalism / Money
+## Economics / Capitalism / Money
 
 - 🌟 [A Random Walk Down Wall Street <sub>The Time-Tested Strategy for Successful Investing</sub>](https://amzn.to/2Vg33Hk)
 - 🌗 [Capital <sub>in the Twenty First Century</sub>](https://amzn.to/2a727OE)
 - 🌑 [Capitalism, Alone <sub>The Future of the System That Rules the World</sub>](https://amzn.to/3fHRGl2)
-- 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
-- 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
-- 🌑 [The Upside of Stress <sub>Why Stress Is Good for You, and How to Get Good at It</sub>](https://amzn.to/3eRcdos)
+- 🌑 [Stubborn Attachments <sub>A Vision for a Society of Free, Prosperous, and Responsible Individuals</sub>](https://amzn.to/3ypmZtW)
+- 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 
 ## Payments / Crypto / DeFi
 
@@ -180,7 +179,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 # Broader Interests
 
-## On Thinking / Way of Life
+## On Thinking / Behavioralism / Way of Life
 
 - 🌟 [Thinking, Fast and Slow](https://amzn.to/1SCZOm6)
 - 🌟 [Antifragile <sub>Things That Gain from Disorder</sub>](https://amzn.to/1PMIVmz)
@@ -190,6 +189,8 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](https://amzn.to/1SCZ00J)
 - 🌑 [The Art of Doing Science and Engineering <sub>Learning to Learn</sub>](https://amzn.to/3nhKLBR)
 - 🌑 [Man's Search for Meaning](https://amzn.to/3hBnYkz)
+- 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
+- 🌑 [The Upside of Stress <sub>Why Stress Is Good for You, and How to Get Good at It</sub>](https://amzn.to/3eRcdos)
 
 ## On Writing
 
