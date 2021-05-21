@@ -39,6 +39,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
 - 🌑 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
+- 🌑 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
 
 ## Leadership / Management
 
