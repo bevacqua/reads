@@ -40,6 +40,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 - 🌑 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
+- 🌑 [High Growth Handbook <sub>Scaling Startups From 10 to 10,000 People</sub>](https://amzn.to/3oGi4jv)
 
 ## Leadership / Management
 
@@ -63,6 +64,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Rapid Development <sub>Taming Wild Software Schedules</sub>](https://amzn.to/1SD1rAv)
 
 ## Marketing / Sales / Negotiation
+
 - 🌟 [How to Win Friends & Influence People](https://amzn.to/1SCZ0h6)
 - 🌕 [Crossing the Chasm <sub>Marketing and Selling Disruptive Products to Mainstream Customers</sub>](https://amzn.to/1SCZnIs)
 - 🌕 [The Win Without Pitching Manifesto](https://amzn.to/1SD0k3G)
