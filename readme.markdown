@@ -185,13 +185,13 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## On Thinking / Behavioralism / Way of Life
 
 - 🌟 [Thinking, Fast and Slow](https://amzn.to/1SCZOm6)
+- 🌟 [Man's Search for Meaning](https://amzn.to/3hBnYkz)
 - 🌟 [Antifragile <sub>Things That Gain from Disorder</sub>](https://amzn.to/1PMIVmz)
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](https://amzn.to/1SCYYWw)
 - 🌕 [Tao Te Ching](https://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](https://amzn.to/1SCZHad)
 - 🌗 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](https://amzn.to/1SCZ00J)
 - 🌑 [The Art of Doing Science and Engineering <sub>Learning to Learn</sub>](https://amzn.to/3nhKLBR)
-- 🌑 [Man's Search for Meaning](https://amzn.to/3hBnYkz)
 - 🌑 [The Happiness Hypothesis <sub>Finding Modern Truth in Ancient Wisdom</sub>](https://amzn.to/3oblTvX)
 - 🌑 [The Upside of Stress <sub>Why Stress Is Good for You, and How to Get Good at It</sub>](https://amzn.to/3eRcdos)
 
