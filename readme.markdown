@@ -85,7 +85,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Payments / Crypto / DeFi
 
-- 🌘 [Payments Systems in the U.S. <sub>A Guide for the Payments Professional</sub>](https://amzn.to/3xnZ3Xo)
+- 🌕 [Payments Systems in the U.S. <sub>A Guide for the Payments Professional</sub>](https://amzn.to/3xnZ3Xo)
 - 🌑 [Electronic Value Exchange <sub>Origins of the VISA Electronic Payment System</sub>](https://amzn.to/3w5S8R8)
 - 🌑 [The Anatomy of the Swipe <sub>Making Money Move</sub>](https://amzn.to/3w9t7nR)
 - 🌑 [Bank 4.0 <sub>Banking Everywhere, Never at a Bank</sub>](https://amzn.to/3uTxsf2)
