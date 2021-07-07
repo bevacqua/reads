@@ -245,9 +245,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Novels
 
+- 🌕 [Hitchhiker's Guide to the Galaxy](https://amzn.to/3fN2iiI)
 - 🌑 [A Confederacy of Dunces](https://amzn.to/1SCZ0xz)
 - 🌑 [Animal Farm and 1984](https://amzn.to/1SCYYpr)
-- 🌑 [Hitchhiker's Guide to the Galaxy](https://amzn.to/3fN2iiI)
 
 ## Comics / Casual Reads
 
