@@ -238,9 +238,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 ## Education / Culture
 
+- 🌕 [The Culture Map <sub>Breaking Through the Invisible Boundaries of Global Business</sub>](https://amzn.to/3q7BcHD)
 - 🌑 [How Children Fail](https://amzn.to/2Ji2RoH)
 - 🌑 [Prepared <sub>What Kids Need for a Fulfilled Life</sub>](https://amzn.to/2Vab9Bv)
-- 🌑 [The Culture Map <sub>Breaking Through the Invisible Boundaries of Global Business</sub>](https://amzn.to/3q7BcHD)
 - 🌑 [Nonviolent Communication: A Language of Life <sub>Life-Changing Tools for Healthy Relationships</sub>](https://amzn.to/2KQhH6j)
 
 ## Novels
