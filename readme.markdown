@@ -33,17 +33,17 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
 3qbGj9G)
 - 🌕 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
-- 🌕 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
+- 🌕 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Blue Ocean Strategy <sub>How to Create Uncontested Market Space and Make the Competition Irrelevant</sub>](https://amzn.to/3fMApXU)
 - 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/396mPvK)
 - 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
 - 🌑 [The Everything Store <sub>Jeff Bezos and the Age of Amazon</sub>](https://amzn.to/3tVxwJy)
 - 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
-- 🌑 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 - 🌑 [High Growth Handbook <sub>Scaling Startups From 10 to 10,000 People</sub>](https://amzn.to/3oGi4jv)
 - 🌑 [Competing Against Luck <sub>The Story of Innovation and Customer Choice</sub>](https://amzn.to/38ZzoJx)
 - 🌑 [The Big Score <sub>The Billion Dollar Story of Silicon Valley</sub>](https://amzn.to/3lbjxNC)
+- 🌑 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
 
 ## Leadership / Management
 
