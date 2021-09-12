@@ -35,19 +35,22 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [Blitzscaling <sub>The Lightning-Fast Path to Building Massively Valuable Companies</sub>](https://amzn.to/3gvvYTw)
 - 🌕 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
 - 🌑 [Blue Ocean Strategy <sub>How to Create Uncontested Market Space and Make the Competition Irrelevant</sub>](https://amzn.to/3fMApXU)
-- 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/- 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
+- 🌑 [The Undoing Project <sub>A Friendship That Changed Our Minds</sub>](https://amzn.to/396mPvK)
+- 🌑 [Good to Great <sub>Why Some Companies Make the Leap and Others Don't</sub>](https://amzn.to/3ydyUe0)
 - 🌑 [The Everything Store <sub>Jeff Bezos and the Age of Amazon</sub>](https://amzn.to/3tVxwJy)
 - 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
 - 🌑 [Invent and Wander <sub>The Collected Writings of Jeff Bezos</sub>](https://amzn.to/2Rrs6Ja)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 - 🌑 [High Growth Handbook <sub>Scaling Startups From 10 to 10,000 People</sub>](https://amzn.to/3oGi4jv)
+- 🌑 [Competing Against Luck <sub>The Story of Innovation and Customer Choice</sub>](https://amzn.to/38ZzoJx)
+- 🌑 [The Big Score <sub>The Billion Dollar Story of Silicon Valley</sub>](https://amzn.to/3lbjxNC)
 
 ## Leadership / Management
 
 - 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](https://amzn.to/1PMIWqB)
 - 🌟 [High Output Management](https://amzn.to/3mjrbVB)
 - 🌟 [The Manager's Path <sub>A Guide for Tech Leaders Navigating Growth and Change</sub>](https://amzn.to/3mvu31P)
-- 🌕 [On Managing People](https://www.amazon.com/dp/1422158012/ref=cm_sw_r_cp_apa_fabc_u6KbGbBYT7VZG)
+- 🌕 [On Managing People](https://amzn.to/2XeDhY9)
 - 🌕 [Turn the Ship Around! <sub>A True Story of Turning Followers into Leaders</sub>](https://amzn.to/39oXrTC)
 - 🌕 [Trillion Dollar Coach <sub>The Leadership Playbook of Silicon Valley's Bill Campbell</sub>](https://amzn.to/2Vf93Ak)
 - 🌑 [The Making of a Manager <sub>What to Do When Everyone Looks to You</sub>](https://amzn.to/36fcBbW)
@@ -55,6 +58,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Hit Refresh <sub>The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</sub>](https://amzn.to/3fP3hyD)
 - 🌑 [Reboot <sub>Leadership and the Art of Growing Up</sub>](https://amzn.to/2Wbdmgq)
 - 🌑 [The Effective Executive <sub>The Definitive Guide to Getting the Right Things Done</sub>](https://amzn.to/3ohyxdN)
+- 🌑 [An Elegant Puzzle <sub>Systems of Engineering Management</sub>](https://amzn.to/3hnQd5y)
 
 ## Teamwork
 
@@ -82,6 +86,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
 - 🌑 [Stubborn Attachments <sub>A Vision for a Society of Free, Prosperous, and Responsible Individuals</sub>](https://amzn.to/3ypmZtW)
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
+- 🌑 [VC <sub>An American History </sub>](https://amzn.to/2YFaVHl)
 
 ## Payments / Crypto / DeFi
 
