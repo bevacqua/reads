@@ -50,6 +50,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](https://amzn.to/1PMIWqB)
 - 🌟 [High Output Management](https://amzn.to/3mjrbVB)
 - 🌟 [The Manager's Path <sub>A Guide for Tech Leaders Navigating Growth and Change</sub>](https://amzn.to/3mvu31P)
+- 🌟 [An Elegant Puzzle <sub>Systems of Engineering Management</sub>](https://amzn.to/3hnQd5y)
 - 🌕 [On Managing People](https://amzn.to/2XeDhY9)
 - 🌕 [Turn the Ship Around! <sub>A True Story of Turning Followers into Leaders</sub>](https://amzn.to/39oXrTC)
 - 🌕 [Trillion Dollar Coach <sub>The Leadership Playbook of Silicon Valley's Bill Campbell</sub>](https://amzn.to/2Vf93Ak)
@@ -58,7 +59,6 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌑 [Hit Refresh <sub>The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</sub>](https://amzn.to/3fP3hyD)
 - 🌑 [Reboot <sub>Leadership and the Art of Growing Up</sub>](https://amzn.to/2Wbdmgq)
 - 🌑 [The Effective Executive <sub>The Definitive Guide to Getting the Right Things Done</sub>](https://amzn.to/3ohyxdN)
-- 🌑 [An Elegant Puzzle <sub>Systems of Engineering Management</sub>](https://amzn.to/3hnQd5y)
 
 ## Teamwork
 
