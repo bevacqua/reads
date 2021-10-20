@@ -81,10 +81,10 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Economics / Capitalism / Money
 
 - 🌟 [A Random Walk Down Wall Street <sub>The Time-Tested Strategy for Successful Investing</sub>](https://amzn.to/2Vg33Hk)
+- 🌟 [Stubborn Attachments <sub>A Vision for a Society of Free, Prosperous, and Responsible Individuals</sub>](https://amzn.to/3ypmZtW)
 - 🌗 [Capital <sub>in the Twenty First Century</sub>](https://amzn.to/2a727OE)
 - 🌑 [Capitalism, Alone <sub>The Future of the System That Rules the World</sub>](https://amzn.to/3fHRGl2)
 - 🌑 [Theory of Games and Economic Behavior](https://amzn.to/3xc0x6H)
-- 🌑 [Stubborn Attachments <sub>A Vision for a Society of Free, Prosperous, and Responsible Individuals</sub>](https://amzn.to/3ypmZtW)
 - 🌑 [Freakonomics <sub>A Rogue Economist Explores the Hidden Side of Everything</sub>](https://amzn.to/3fSyeCg)
 - 🌑 [VC <sub>An American History </sub>](https://amzn.to/2YFaVHl)
 
