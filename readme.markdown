@@ -225,13 +225,13 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 ## Sciences
 
 - 🌟 [A Brief History of Time](https://amzn.to/1PMITec)
+- 🌟 [Life's Edge <sub>The Search for What It Means to Be Alive</sub>](https://amzn.to/3xhG4xF)
 - 🌕 [Sapiens <sub>A Brief History of Humankind</sub>](https://amzn.to/37eIP6s)
 - 🌑 [On the Origin of Species](https://amzn.to/37gCoQf)
 - 🌑 [The Selfish Gene](https://amzn.to/3lidNzN)
 - 🌑 [Why We Sleep <sub>Unlocking the Power of Sleep and Dreams</sub>](https://amzn.to/2Vdhg7X)
 - 🌑 [Lifespan <sub>The Revolutionary Science of Why We Age – and Why We Don’t Have To</sub>](https://amzn.to/3q9u0KZ)
 - 🌑 [Entangled Life <sub>How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures</sub>](https://amzn.to/33mPM47)
-- 🌑 [Life's Edge <sub>The Search for What It Means to Be Alive</sub>](https://amzn.to/3xhG4xF)
 - 🌑 [Reality Is Not What It Seems <sub>The Journey to Quantum Gravity</sub>](https://amzn.to/3n2nCEb)
 - 🌑 [An Enquiry Concerning Human Understanding <sub>_and_ Hume's Abstract of A Treatise of Human Nature _and_ A Letter from a Gentleman to His Friend in Edinburgh</sub>](https://amzn.to/3dvk2PS)
 
