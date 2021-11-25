@@ -54,7 +54,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [On Managing People](https://amzn.to/2XeDhY9)
 - 🌕 [Turn the Ship Around! <sub>A True Story of Turning Followers into Leaders</sub>](https://amzn.to/39oXrTC)
 - 🌕 [Trillion Dollar Coach <sub>The Leadership Playbook of Silicon Valley's Bill Campbell</sub>](https://amzn.to/2Vf93Ak)
-- 🌑 [The Making of a Manager <sub>What to Do When Everyone Looks to You</sub>](https://amzn.to/36fcBbW)
+- 🌕 [The Making of a Manager <sub>What to Do When Everyone Looks to You</sub>](https://amzn.to/36fcBbW)
 - 🌑 [The Ride of a Lifetime <sub>Lessons Learned from 15 Years as CEO of the Walt Disney Company</sub>](https://amzn.to/2J8giHT)
 - 🌑 [Hit Refresh <sub>The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</sub>](https://amzn.to/3fP3hyD)
 - 🌑 [Reboot <sub>Leadership and the Art of Growing Up</sub>](https://amzn.to/2Wbdmgq)
