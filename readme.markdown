@@ -226,9 +226,9 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌟 [A Brief History of Time](https://amzn.to/1PMITec)
 - 🌟 [Life's Edge <sub>The Search for What It Means to Be Alive</sub>](https://amzn.to/3xhG4xF)
+- 🌟 [The Selfish Gene](https://amzn.to/3lidNzN)
 - 🌕 [Sapiens <sub>A Brief History of Humankind</sub>](https://amzn.to/37eIP6s)
-- 🌑 [On the Origin of Species](https://amzn.to/37gCoQf)
-- 🌑 [The Selfish Gene](https://amzn.to/3lidNzN)
+- 🌗 [On the Origin of Species](https://amzn.to/37gCoQf)
 - 🌑 [Why We Sleep <sub>Unlocking the Power of Sleep and Dreams</sub>](https://amzn.to/2Vdhg7X)
 - 🌑 [Lifespan <sub>The Revolutionary Science of Why We Age – and Why We Don’t Have To</sub>](https://amzn.to/3q9u0KZ)
 - 🌑 [Entangled Life <sub>How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures</sub>](https://amzn.to/33mPM47)
