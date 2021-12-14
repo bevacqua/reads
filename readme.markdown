@@ -33,7 +33,6 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 - 🌕 [The New Kingmakers <sub>How Developers Conquered the World</sub>](https://amzn.to/2a72jxt)
 - 🌕 [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](https://amzn.to/1SCZTX1)
 - 🌕 [Thinking in Bets <sub>Making Smarter Decisions When You Don't Have All the Facts</sub>](https://amzn.to/3o63GQ6)
-3qbGj9G)
 - 🌑 [Alibaba <sub>The House That Jack Ma Built</sub>](https://amzn.to/3hzcVsi)
 - 🌑 [Amazon Unbound <sub>Jeff Bezos and the Invention of a Global Empire</sub>](https://amzn.to/3wgclU6)
 - 🌑 [Billion Dollar Loser <sub>The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</sub>](https://amzn.to/3hKQbW8)
