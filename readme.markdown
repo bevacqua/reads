@@ -244,7 +244,7 @@ Books I would like to read but I haven't purchased yet can be found on my [Amazo
 
 - 🌑 [SPQR <sub>A History of Ancient Rome</sub>](https://amzn.to/3tzHtNJ)
 - 🌑 [The Dictator's Handbook <sub>Why Bad Behavior Is Almost Always Good Politics</sub>](https://amzn.to/3xayd4Q)
-- 🌑 [The Powerful and the Damned <subPrivate Diaries in Turbulent Times</sub>](https://amzn.to/3tKVUhK)
+- 🌑 [The Powerful and the Damned <sub>Private Diaries in Turbulent Times</sub>](https://amzn.to/3tKVUhK)
 - 🌑 [The Wires of War <sub>Technology and the Global Struggle for Power</sub>](https://amzn.to/31XRqMj)
 
 ## Education / Culture
